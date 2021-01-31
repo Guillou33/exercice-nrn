@@ -8,9 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
     "axios": "^0.21.1",
+    "fetch-error": "^1.0.0",
     "next": "10.0.6",
+    "next-google-fonts": "^1.2.1",
+    "next-pwa": "^5.0.4",
+    "nextjs-progressbar": "0.0.7",
     "react": "^17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "sass": "^1.32.5"
+  },
+  "devDependencies": {
+    "webpack": "^5.19.0"
   }
 }
